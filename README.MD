@@ -17,7 +17,6 @@ PDFAssist let's you chat your pdf.It leverages the power of langchain  and strea
 - **Chat Interface:** Engage in a chat conversation with the contents of the PDF.
 - **Intelligent Responses:** The application uses advanced language models to provide contextually relevant responses.
 - **Multimodal AI:** Combines the capabilities of GPT 3.5 Turbo, LLama2, and Flan 5XXL for a rich conversational experience.(Coming soon...)
-- **Interactive Visualization:** Streamlist enables dynamic and interactive display of PDF content.
 
 ## Installation
 
